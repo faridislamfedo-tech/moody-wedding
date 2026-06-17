@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Website Ahmed & Mai",
+  "description": "A luxury, modern, one-page wedding website for Ahmed & Mai featuring a countdown, romantic timeline, details, RSVP, and floating animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
